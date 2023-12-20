@@ -94,7 +94,7 @@ getPlaylistLength({
 
 Write a function, `getHardestHomework` that takes in an array of homework objects and returns the name of 
 the hardest homework assignment. The hardest homework will be the one that has the lowest average score. If the array contains no homeworks, return an empty string.
-
+//feeds an array of objects
 **Examples**
 
 ```
